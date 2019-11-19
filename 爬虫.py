@@ -13,6 +13,7 @@ keyword = input("乔布斯")
 #转码
 keyword = urllib.parse.quote(keyword,'utf-8')
 
+
 n = 0
 j = 0
 

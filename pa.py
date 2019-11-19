@@ -44,8 +44,10 @@ def getDetailImage(word):
                     f.write(html.content)
             except:
                 pass
-            
-            
+
+      
+
+
         num=num+1
         
 

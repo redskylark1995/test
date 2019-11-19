@@ -45,6 +45,7 @@ def getDetailImage(word):
             except:
                 pass
             
+            
         num=num+1
         
 

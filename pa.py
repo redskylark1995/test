@@ -6,7 +6,7 @@ import urllib.parse
 from lxml import etree
 import json
 page_num=30
-photo_dir=r"data\0乔布斯"
+photo_dir=r"data\0乔布斯1"
 
 
 def getDetailImage(word):
